@@ -1,0 +1,13 @@
+.idea
+Pipfile.lock
+__pycache__
+log/
+build/
+dist/
+myfile.spec
+setup.spec
+*.png
+*.jpg
+tests.py
+*.txt
+upx*
